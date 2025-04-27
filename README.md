@@ -1,4 +1,4 @@
-# Characterization-of-Artificial-Intelligence-Accelerators-for-Timing-Analysis-Appendix
+# Appendix: Characterization of Artificial Intelligence Accelerators for Timing Analysis 
 Appendix for Characterization of Artificial Intelligence Accelerators for Timing Analysis Master Thesis. 
 
 ## Directory Structure
