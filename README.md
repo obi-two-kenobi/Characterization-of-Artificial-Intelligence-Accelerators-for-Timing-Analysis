@@ -1,5 +1,5 @@
 # Characterization of Artificial Intelligence Accelerators for Timing Analysis 
-Appendix for Characterization of Artificial Intelligence Accelerators for Timing Analysis Master Thesis. 
+Characterization of Artificial Intelligence Accelerators for Timing Analysis Master Thesis and Appendix.
 
 ## Directory Structure
 The structure of the files and folders in this appendix is as follows: 
